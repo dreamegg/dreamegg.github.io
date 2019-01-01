@@ -8,8 +8,8 @@ url: "https://yourname.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "https://github.com/dreamegg/GL_Image_Inapinting_pytorch"
-baseurl: "/GL_Image_Inapinting_pytorch"
+#url: "https://github.com/dreamegg/GL_Image_Inapinting_pytorch"
+#baseurl: "/GL_Image_Inapinting_pytorch"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
