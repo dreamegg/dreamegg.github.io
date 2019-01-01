@@ -14,25 +14,25 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Moon Works
+title: Chankyoo Moon's Works
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Practice and Enjoi
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Works:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Author's home: "https://github.com/dreamegg"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/loom.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -71,18 +71,18 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  rss: false
+  email: "chankyoo.moon@gmail.com"
+  facebook: https://www.facebook.com/chankyoo.moon
+  github: https://github.com/dreamegg
+#  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: https://www.instagram.com/dream338
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
