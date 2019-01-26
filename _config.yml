@@ -25,7 +25,7 @@ description: Practice and Enjoi
 navbar-links:
   About Me: "aboutme"
   Works:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - 2Spte Inpainting : "http://www.markdowntutorial.com/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "https://github.com/dreamegg"
@@ -71,7 +71,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+#  rss: false
   email: "chankyoo.moon@gmail.com"
   facebook: https://www.facebook.com/chankyoo.moon
   github: https://github.com/dreamegg
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://dreamegg.github.io/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
