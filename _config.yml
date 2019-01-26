@@ -73,8 +73,8 @@ author:
 social-network-links:
 #  rss: false
   email: "chankyoo.moon@gmail.com"
-  facebook: https://www.facebook.com/chankyoo.moon
-  github: https://github.com/dreamegg
+  facebook: "https://www.facebook.com/chankyoo.moon"
+  github: "https://github.com/dreamegg"
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -82,7 +82,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: https://www.instagram.com/dream338
+  instagram: "https://www.instagram.com/dream338"
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
